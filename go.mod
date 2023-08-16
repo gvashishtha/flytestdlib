@@ -105,4 +105,4 @@ require (
 	sigs.k8s.io/structured-merge-diff/v4 v4.0.3 // indirect
 )
 
-replace github.com/flyteorg/stow => github.com/gvashishtha/stow v0.0.0-20230815233304-f9600ea4dbcd
+replace github.com/flyteorg/stow => github.com/gvashishtha/stow v0.0.0-20230816152125-9d042ccd8a81
